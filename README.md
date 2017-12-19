@@ -1,4 +1,4 @@
 symfony_issue
 =============
 
-A Symfony project created on December 19, 2017, 9:31 am.
+Just visit / url and submit the form. The layout is a bit archaic but it will display the noticed errors with associated cause constraints
